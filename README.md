@@ -25,7 +25,7 @@ This script adds a holster animation to your FiveM server. When players press an
 - Release the key to stop the animation.  
 
 ## Support  
-Need help or have questions about the script? Feel free to join the community on Discord for support: [Discord Server](https://discord.gg/GwBegce9JJ)  
+Need help or have questions about the script? Feel free to join the community on Discord for support: https://discord.gg/GwBegce9JJ
 
 ## Download  
 Click **Code > Download ZIP** or visit the **[Releases page](https://github.com/tdemods/tde_holsteranim/releases)** to download the latest version.  
