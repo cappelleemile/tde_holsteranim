@@ -21,7 +21,7 @@ CreateThread(function()
             end
         else
             if isPlaying then
-                ClearPedTasks(PlayerPedId()) -- Stopt de animatie
+                ClearPedTasks(PlayerPedId())
                 isPlaying = false
             end
         end
