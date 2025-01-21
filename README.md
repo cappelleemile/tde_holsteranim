@@ -11,7 +11,7 @@ This script adds a holster animation to your FiveM server. When players press an
 - **Free:** Completely free for the community.  
 
 ## Installation  
-1. Download the script from the **[Releases page](https://github.com/tdemods/tde_holsteranim/releases)** of this repository.  
+1. Click **Code > Download ZIP** to download the script.  
 2. Drag the folder into the `resources` folder of your FiveM server.  
 3. Add the following line to your `server.cfg`:
    
@@ -28,7 +28,7 @@ This script adds a holster animation to your FiveM server. When players press an
 Need help or have questions about the script? Feel free to join the community on Discord for support: https://discord.gg/GwBegce9JJ
 
 ## Download  
-Click **Code > Download ZIP** or visit the **[Releases page](https://github.com/tdemods/tde_holsteranim/releases)** to download the latest version.  
+Click **Code > Download ZIP** to download the latest version.  
 
 ## License  
 This script is free to use and share, but redistribution or resale is not allowed.
